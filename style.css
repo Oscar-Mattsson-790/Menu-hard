@@ -36,3 +36,10 @@ button {
   margin: 10px;
   color: rgb(150, 150, 150);
 }
+
+button,
+header:hover {
+  background-color: #676767;
+  color: #ececec;
+  cursor: pointer;
+}
